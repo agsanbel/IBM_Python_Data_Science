@@ -1,5 +1,8 @@
-# testrepo
+# Data Science and Machine Learning Capstone Project
 
-## Editing the file
+This repository is about a capstone project of a data science and machine learning course in python of IBM, developed in edx.
 
-Its a markdown file in this repository
+There are differents files, each file is a lab of this course.
+
+Some files have been developed in IBM cloud, an others in VS Code.
+
